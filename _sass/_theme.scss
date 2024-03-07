@@ -44,6 +44,7 @@ body {
 }
 
 .feature {
+  border-top: solid #583101;
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
@@ -86,6 +87,7 @@ body {
 }
 
 .footer {
+  background-color: #EDE0D4;
   color: $captionColour;
   a {
     color: $linkColour;

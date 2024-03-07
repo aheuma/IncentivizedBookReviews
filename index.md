@@ -5,7 +5,7 @@ feature_text: |
   ## on German Book Reviews
   A Computational Comparison of Incentivized and Non-Incentivized Book Reviews
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+
 ---
 
 This is the web-based presentation of my master thesis which was developed in the context of the master program "Digitale Methodik in den Geistes- und Kulturwissenschaften" (Digital Humanities) at Johannes Gutenberg-University Mainz and Hochschule Mainz. 

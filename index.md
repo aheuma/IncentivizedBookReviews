@@ -1,9 +1,9 @@
 ---
 title: Home
 feature_text: |
-  ## Analyzing the Impact of Free Book Copies 
-  ## on German Book Reviews
-  A Computational Comparison of Incentivized and Non-Incentivized Book Reviews
+  ## The Impact of Review Copies 
+  ## on German Online Book Reviews
+  ## from LovelyBooks
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---

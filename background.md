@@ -5,9 +5,7 @@ feature_text: |
 
 ---
 
-## Research Motivation
+## Book Reviews
 
-## Marketing & Incentives
-
-## Free Book Copies
+## Incentivization of Book Reviewers: Free Book Copies
 

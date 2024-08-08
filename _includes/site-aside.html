@@ -5,11 +5,30 @@
       {% include post-related.html %}
     </section>
 
-  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+  {% elsif page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
-      <h3>About this site</h3>
+      <h3>Contents</h3>
       <p>{{ site.description }}</p>
-      {% include nav-social.html %}
+      <!-- {% include nav-social.html %} -->
+    </section>
+
+  {% elsif page.layout == "page" and page.title == "Methods" %}
+    <section class="section  section--description">
+      <h3>Contents</h3>
+      {% include site-aside-methods.html %}
+      <!-- {% include nav-social.html %} -->
+    </section>
+  
+  {% elsif page.layout == "page" and page.title == "Results" %}
+    <section class="section  section--description">
+      <h3>Contents</h3>
+      {% include site-aside-results.html %}
+    </section>
+  
+  {% elsif page.layout == "page" and page.title == "Hypotheses" %}
+    <section class="section  section--description">
+      <h3>Contents</h3>
+      {% include site-aside-hypotheses.html %}
     </section>
 
   {% elsif page.layout == "categories" %}

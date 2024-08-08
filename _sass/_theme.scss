@@ -151,8 +151,8 @@ body {
     max-width: 34%;
     margin-left: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
-    transition: opacity .1s;
+    //opacity: 0.5;
+    //transition: opacity .1s;
     .section {
       position: sticky;
       top: 0;

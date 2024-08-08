@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Anne Heumann" # Site name or title, also used in jekyll-seo-tag
-description: "Web-based presentation for a master thesis on incentivized book reviews" # Site description and default description, also used in jekyll-seo-tag
+#description: "Web-based presentation for a master thesis on incentivized book reviews" # Site description and default description, also used in jekyll-seo-tag
 url: "https://aheuma.github.io/IncentivizedBookReviews/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/aheuma/IncentivizedBookReviews/tree/main"
@@ -122,16 +122,20 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
 - title: Background
   url: /background/
-- title: Methodology
-  url: /methodology/
+- title: Data
+  url: /data/
+- title: Hypotheses
+  url: /hypotheses/
+- title: Methods
+  url: /methods/
 - title: Results
   url: /results/
 - title: Resources
   url: /resources/
+- title: References
+  url: /references/
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

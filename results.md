@@ -1,16 +1,20 @@
 ---
 title: Results
-feature_text: |
-  ## Results 
+aside: true
+layout: page
 
 ---
 
-## Feature 1
+## Descriptive Overview {#descriptive-overview}
 
-## Feature 2
+## Hypothesis 1 {#hypothesis-1}
 
-## Discussion
+## Hypothesis 2 {#hypothesis-2}
 
-## Conclusion
+## Hypothesis 3 {#hypothesis-3}
+
+## Hypothesis 4 {#hypothesis-4}
+
+## Hypothesis 5 {#hypothesis-5}
 
 

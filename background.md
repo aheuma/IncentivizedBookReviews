@@ -1,11 +1,11 @@
 ---
 title: Theoretical Background
-feature_text: |
-  ## Research Overview
-
+layout: page
+aside: true
 ---
 
 ## Book Reviews
+
 
 ## Incentivization of Book Reviewers: Free Book Copies
 

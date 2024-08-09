@@ -11,11 +11,11 @@ It was decided to focus on a single genre, due to two reasons:
 1. to avoid possible biases by genre specifics (e.g. that some genre are known to be more positive than others);
 2. to keep the number of reviews and thus, the computing power, manageable.
 
-The aim consisted in building two sub-corpora (one with incentivized and one with non-incentivized reviews) of a singe genre. The genre selection was based on the number of available reviews as it was conceivable that the absolute number of incentivized reviews (IRs) would be much smaller than that of non-incentivized reviews (NIRs) (confirmed also by Hu et al. [2023]). Thus, the genre with the highest number of IRs was selected and the respective size worked as the benchmark for the sub-corpus of NIRs.
+The aim consisted in building two sub-corpora (one with incentivized and one with non-incentivized reviews) of a singe genre. The genre selection was based on the number of available reviews as it was conceivable that the absolute number of incentivized reviews (IRs) would be much smaller than that of non-incentivized reviews (NIRs)[^1]. Thus, the genre with the highest number of IRs was selected and the respective size worked as the benchmark for the sub-corpus of NIRs.
 
 ### Identification of IRs {#identification-irs}
 
-To detect IRs, this study followed the approach by Hu et al. and Costa et al. who created lists of deterministic terms and phrases to detect IRs. The present work goes back to the observation that book reviewers explicitly mention their honest opinions although they have received a free review copy on LovelyBooks. Thus, the main assumption is that a book review is incentivized if such a non-monetary incentive is explicitly referenced in the review. 
+To detect IRs, this study followed the approach by two other studies[^2] who created lists of deterministic terms and phrases to detect IRs. The present work goes back to the observation that book reviewers explicitly mention their honest opinions although they have received a free review copy on LovelyBooks. Thus, the main assumption is that a book review is incentivized if such a non-monetary incentive is explicitly referenced in the review. 
 
 The following table presents the results of close-reading randomly selected reviews which match a given list of possible disclosure terms:
 
@@ -53,7 +53,7 @@ The following plot shows the distribution of the review types in the romance gen
 
 As type 1-reviews are very short, they do not convey much meaning. Thus, it was decided to exclude them from the analysis.
 
-### Summary {#summary}
+### Interim Summary {#interim-summary}
 In a last step, non-German reviews were detected and excluded from the corpus. Overall, the reduced romance corpus contains 109 553 reviews, out of these 4872 IRs. Thus, 4872 NIRs were randomly selected and both sub-corpora saved separately. 
 
 
@@ -102,3 +102,7 @@ For all hypotheses, the values are computed and added to each review in a separa
             average_word_length = round(statistics.mean(word_lengths_per_review), 4)
             input_df.loc[index, ’average word length ’ ] = average_word_length
         input_df.to_csv(input_path, index=False, header=True)
+
+---
+[^1]: Confirmed also by Hu et al. 2023.
+[^2]: Costa et al. 2019, Hu et al. 2023.

@@ -30,6 +30,12 @@
       <h3>Contents</h3>
       {% include site-aside-hypotheses.html %}
     </section>
+  
+  {% elsif page.layout == "page" and page.title == "Theoretical Background" %}
+    <section class="section  section--description">
+      <h3>Contents</h3>
+      {% include site-aside-background.html %}
+    </section>
 
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">

@@ -33,6 +33,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-pdf-embed
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -132,10 +133,10 @@ navigation_header:
   url: /methods/
 - title: Results
   url: /results/
-- title: Resources
-  url: /resources/
 - title: References
   url: /references/
+- title: Resources
+  url: /resources/
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

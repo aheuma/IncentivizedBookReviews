@@ -48,7 +48,7 @@ Social cataloging sites offer many functionalities:
 
 LovelyBooks is the largest social cataloging site for books in the German area. According to their own PR-data of 2024, LovelyBooks hosts over 500,000 readers (in terms of registrations), including 10,000 authors and publishers[^6]. 
 
-LovelyBooks mainly provides a to share and browse book reviews. Each user has the possibility to create an individual bookshelf with books to read and books that have been read. Further, LovelyBooks organizes so-called reading rounds which are characterized by giving away free copies to chosen readers which then read the book and commit themselves to an active exchange with the other selected readers. 
+LovelyBooks mainly provides a platform to share and browse book reviews. Each user has the possibility to create an individual bookshelf with books to read and books that have been read. Further, LovelyBooks organizes so-called reading rounds which are characterized by giving away free copies to chosen readers which then read the book and commit themselves to an active exchange with the other selected readers. 
 
 ## Incentivization of Book Reviewers: Free Book Copies {#incentivization}
 Due to the huge impact of reviews, marketers employ different tacticts to make use of the effects of reviews. One such exemplary strategy is incentivization which is defined as:

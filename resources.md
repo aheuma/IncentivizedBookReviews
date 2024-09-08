@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: resources
-pdf_file: "/assets/Hypothesenkapitel.pdf"
+pdf_file: "../assets/Hypothesenkapitel.pdf"
 ---
 
 ## Master Thesis

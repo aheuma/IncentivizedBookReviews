@@ -63,11 +63,11 @@ Incentivized reviews can negatively affect the review's credibility - the review
 
 In the book market, giving away review copies to critics is a long tradition which has experienced a shift towards amateur critics. The intitial scheme of blogger-cooperations looked like this:
 
-{% include figure.html image="/assets/images/Traditional_Scheme.png" position="center" height="90%" %} 
+{% include figure.html image="../assets/images/Traditional_Scheme.png" position="center" height="90%" %} 
 
 With the rise of social media, new forms and cooperations came up. For example, review copies can be digital and the reviews are published on blogs, but also distributed via social media.
 
-Considering the most common cooperation, namely that book bloggers ask publishers / authors for a review copy, it is important to note that it is not guarantueed that book reviewers will receive a free book (because of limited contingents). Therefore, publishers have more or less strict requirements for book reviewers, such as having a minimum number of followers and to regularly publish contents.
+Considering the most common cooperation, namely that book bloggers ask publishers/authors for a review copy, it is important to note that it is not guarantueed that book reviewers will receive a free book (because of limited contingents). Therefore, publishers have more or less strict requirements for book reviewers, such as having a minimum number of followers and to regularly publish contents.
 
 Importantly, from a legal perspective, this kind of cooperation is a form of advertising. As such, book reviewers are obliged to disclose the fact of having received a free product. According to the German media state authorities, the following content types are subject to mandatory labeling:
 

@@ -19,7 +19,7 @@ To detect IRs, this study followed the approach by two other studies[^2] who cre
 
 The following table presents the results of close-reading randomly selected reviews which match a given list of possible disclosure terms:
 
-{% include figure.html image="/assets/images/Disclosures_Summary.png" position="center" height="90%" %} 
+{% include figure.html image="../assets/images/Disclosures_Summary.png" position="center" height="90%" %} 
 
 ### Identification of NIRs {#identification-nirs}
 To identify NIRs, this study assumes that a review which is not explicitly marked as being incentivized is non-incentivized. Although this harbors the risk that the NIR corpus contains false-negative reviews (reviews that are incentivized but don't contain an explicit reference), this approach seemed more promising than trying to targetedly identify NIRs, for example by searching for reviews that explicitly mention a purchase intention.
@@ -27,12 +27,11 @@ To identify NIRs, this study assumes that a review which is not explicitly marke
 ### Genre Selection {#genre-selection}
 The following plot presents an overview over the shares of IRs per genre:
 
-![image](../assets/images/reviews_IR_shares_ALL.png)
 {% include figure.html image="../assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %}
 
 As can be seen, the IR shares range from 0,18% (for the classics genre) to 5,6% (for the erotic literature genre). Nevertheless, this thesis aimed at selecting the genre with the highest possible number of IRs. Thus, the absolute numbers as presented in the following plot are of higher relevance:
 
-{% include figure.html image="/assets/images/reviews_IRs_absolute_per_genre_BAR.png" position="center" height="90%" %} 
+{% include figure.html image="../assets/images/reviews_IRs_absolute_per_genre_BAR.png" position="center" height="90%" %} 
 
 As the romance genre has the highest number of IRs, it was selected for the analyses.
 
@@ -50,7 +49,7 @@ Overall, there are three cases of review types:
 
 The following plot shows the distribution of the review types in the romance genre:
 
-{% include figure.html image="/assets/images/review_type_shares_romance.png" position="center" height="90%" %} 
+{% include figure.html image="../assets/images/review_type_shares_romance.png" position="center" height="90%" %} 
 
 As type 1-reviews are very short, they do not convey much meaning. Thus, it was decided to exclude them from the analysis.
 

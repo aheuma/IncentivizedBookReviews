@@ -27,7 +27,7 @@ To identify NIRs, this study assumes that a review which is not explicitly marke
 ### Genre Selection {#genre-selection}
 The following plot presents an overview over the shares of IRs per genre:
 
-{% include figure.html image="{{ site.baseurl }}/assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %} 
+{% include figure.html image="./assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %} 
 
 As can be seen, the IR shares range from 0,18% (for the classics genre) to 5,6% (for the erotic literature genre). Nevertheless, this thesis aimed at selecting the genre with the highest possible number of IRs. Thus, the absolute numbers as presented in the following plot are of higher relevance:
 

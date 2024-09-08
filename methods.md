@@ -27,7 +27,7 @@ To identify NIRs, this study assumes that a review which is not explicitly marke
 ### Genre Selection {#genre-selection}
 The following plot presents an overview over the shares of IRs per genre:
 
-{% include figure.html image="/assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %} 
+{% include figure.html image="{{ site.baseurl }}/assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %} 
 
 As can be seen, the IR shares range from 0,18% (for the classics genre) to 5,6% (for the erotic literature genre). Nevertheless, this thesis aimed at selecting the genre with the highest possible number of IRs. Thus, the absolute numbers as presented in the following plot are of higher relevance:
 
@@ -70,7 +70,7 @@ Quotation marks were unified to avoid potential parsing issues. Emoticons and sp
 
 Kim et al. do not include the disclosure phrase in their analyses because, e.g. for the hypothesis about review elaborateness, this additional sentence could distort the results.
 
-The present thesis follows a different approach. This is mainly due to the function that the disclaimer serves. In Kim et al.’s study, the only purpose of the disclaimer is to inform readers that the reviewer has been sponsored - it does not include e.g. a product-related statement. Thus, it has no relevance for the actual analysis. For the disclaimers in the LoBo corpus, the case is different.6 Here, the disclaimers serve a dual function: While they are used to identify sponsored reviews, there are also cases where this disclaimer is part of an evaluative statement about the book or the reading experience. Therefore, it can be argued that the sentences expressing gratitude for having received a
+The present thesis follows a different approach. This is mainly due to the function that the disclaimer serves. In Kim et al.’s study, the only purpose of the disclaimer is to inform readers that the reviewer has been sponsored - it does not include e.g. a product-related statement. Thus, it has no relevance for the actual analysis. For the disclaimers in the LoBo corpus, the case is different. Here, the disclaimers serve a dual function: While they are used to identify sponsored reviews, there are also cases where this disclaimer is part of an evaluative statement about the book or the reading experience. Therefore, it can be argued that the sentences expressing gratitude for having received a
 free book - the disclaimers - contain product-related evaluations by book reviewers. Thus, the disclaimers are not removed for any of the hypotheses.
 
 ## Hypothesis Testing {#hypothesis-testing}

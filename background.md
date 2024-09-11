@@ -9,7 +9,7 @@ aside: true
 #### Impact on the Market {#impact-on-the-market}
 (Book) reviews constitute a form of electronic Word of Mouth (eWoM) which bases on the fact that customers tend to rely less on traditional Marketing strategies and more on the experiences and opinions of their friends and families who act as peers and are as such deemed much more credible. While all involved stakeholders may profit from online reviews, reviews are esp. valuable for their readers. One reason lies in the possibility for retailers to offer many more products online which creates a huge and convoluted product variety. This importance is reflected by current numbers: "more than 80% of online shoppers consult reviews posted by other consumers before making purchase decisions"[^1].
 
-This trend has not stopped at the threshold of the book world, with online book reviews - a form of eWoM - standing right next to developments such as bookstagram, BookTok, FanFiction, etc. This applies even more when considering the amount of newly published books (over 70,000 in Germany in 2021[^2]). Thus, while the product variety may be overwhelming for customers, book reviews constitute an important instrument for orientation.
+This trend has not stopped at the threshold of the book world, with online book reviews—a form of eWoM—standing right next to developments such as bookstagram, BookTok, FanFiction, etc. This applies even more when considering the amount of newly published books (over 70,000 in Germany in 2021[^2]). Thus, while the product variety may be overwhelming for customers, book reviews constitute an important instrument for orientation.
 
 Book reviewing impacts modern reading practices. The rise of amateur criticism has created a digital reading sphere, which is characterized mainly by a transfer of social reading
 practices into the digital room. Generally, Social Reading describes an “online geführter, intensiver und dauerhafter Austausch über Texte”[^3].
@@ -18,7 +18,7 @@ This digital space offers many chances for book and review readers: esp. the exc
 
 > “Leser, Autoren und Kritiker rücken im digitalen Zeitalter auch in der etablierten Verlagswelt enger zusammen als jemals zuvor”[^4].
 
-While this undeniably offers chances for readers and authors, other stakeholders may be confronted with a loss of their importance, e.g. professional literary critics or publishers. The latter have reacted to this shift, for example by establishing strategies such as review management. In this light, reader reviews are used as a marketing instrument to foster book popularity and - in the end - sales figures.[^5]
+While this undeniably offers chances for readers and authors, other stakeholders may be confronted with a loss of their importance, e.g. professional literary critics or publishers. The latter have reacted to this shift, for example by establishing strategies such as review management. In this light, reader reviews are used as a marketing instrument to foster book popularity and—in the end—sales figures.[^5]
 
 #### Book Reviewers {#book-reviewers}
 Naturally, the rise of massively published online reviews is accompanied by an increase of persons who _write_ reviews. Book reviews are often written by so-called content-creators, e.g. bloggers or influencers (but can also be written by occasional reviewers, of course). Book reviewers are often young, female and intensive readers that actively participate in the social book world.
@@ -59,7 +59,7 @@ In its core, incentivization is supposed to be a mutual exchange: subject A give
 
 Incentives can take different forms, such as monetary (e.g. receiving cash or a discount) or non-monetary (e.g. free products or event invitations), material or immaterial.
 
-Incentivized reviews can negatively affect the review's credibility - the review reader now faces a situation where the reviews that are supposed to be helpful in his/her purchase decision can be potentially biased and misleading. To protect customers from biased, misleading reviews, there are legal regulative requirements to disclose sponsorship.
+Incentivized reviews can negatively affect the review's credibility: The review reader now faces a situation where the reviews that are supposed to be helpful in his/her purchase decision can be potentially biased and misleading. To protect customers from biased, misleading reviews, there are legal regulative requirements to disclose sponsorship.
 
 In the book market, giving away review copies to critics is a long tradition which has experienced a shift towards amateur critics. The intitial scheme of blogger-cooperations looked like this:
 

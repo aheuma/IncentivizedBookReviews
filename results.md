@@ -7,20 +7,20 @@ layout: page
 
 ## Hypothesis Testing {#hypothesis-testing}
 Generally, to test the hypotheses, the following steps are necessary:
-1. Compare mean / median scores
+1. Compare mean/median scores
 2. Check test assumptions
 3. Conduct hypothesis test
 4. Calculate effect size
 
 In the following, all results are reported apart from the test assumptions (you can read about this in the thesis).
 
-### Hypothesis 1 {#hypothesis-1}
+#### Hypothesis 1 {#hypothesis-1}
 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | 0.2612 | **0.2775** |
 
-<br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H1_ is rejected. Instead, the alternative hypothesis - _H1b NIRs are more positive than IRs_ - is tested.
+<br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H1_ is rejected. Instead, the alternative hypothesis—_H1b NIRs are more positive than IRs_—is tested.
 
 | **Measure** | **Value** |
 | --- | ---|
@@ -29,13 +29,13 @@ In the following, all results are reported apart from the test assumptions (you 
 
 <br>With p < 0.05, the difference between the groups is statistically significant (_H1b_ is confirmed). Still, with a very small effect size of 0.047, the difference is considered to have no practical relevance.
 
-### Hypothesis 2 {#hypothesis-2}
+#### Hypothesis 2 {#hypothesis-2}
 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | 5.2486 | **5.2886** |
 
-<br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H2_ is rejected. Instead, the alternative hypothesis - _H2b NIRs are more complex than IRs_ - is tested.
+<br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H2_ is rejected. Instead, the alternative hypothesis—_H2b NIRs are more complex than IRs_—is tested.
 
 | **Measure** | **Value** |
 | --- | ---|
@@ -44,7 +44,7 @@ In the following, all results are reported apart from the test assumptions (you 
 
 <br>With p < 0.05, the difference between the groups is statistically significant (_H2b_ is confirmed). Still, with a very small effect size of 0.04, the difference is considered to have no practical relevance.
 
-### Hypothesis 3 {#hypothesis-3}
+#### Hypothesis 3 {#hypothesis-3}
 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
@@ -59,13 +59,13 @@ In the following, all results are reported apart from the test assumptions (you 
 
 <br>With p < 0.001[^1], the difference between the groups is statistically highly significant (_H3_ is confirmed). Even more, with an effect size of 0.64, the difference is considered to have considerable practical relevance.
 
-### Hypothesis 4 {#hypothesis-4}
+#### Hypothesis 4 {#hypothesis-4}
 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Median | 5 | **4** |
 
-<br>In this case, the median scores are compared because there are ordinal variables. Due to the contrary tendency, hypothesis _H4_ is rejected. Instead, the alternative hypothesis - _H4b NIRs are less extreme than IRs_ - is tested.
+<br>In this case, the median scores are compared because there are ordinal variables. Due to the contrary tendency, hypothesis _H4_ is rejected. Instead, the alternative hypothesis—_H4b NIRs are less extreme than IRs_—is tested.
 
 | **Measure** | **Value** |
 | --- | ---|
@@ -80,7 +80,7 @@ In the following, all results are reported apart from the test assumptions (you 
 
 <br>The relative frequencies show ambivalent results: While there are indeed less 1-star reviews, there are more 5-star reviews in the IR sample. Thus, hypothesis _H4b_ is rejected.
 
-### Hypothesis 5 {#hypothesis-5}
+#### Hypothesis 5 {#hypothesis-5}
 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
@@ -94,7 +94,7 @@ In the following, all results are reported apart from the test assumptions (you 
 
 <br>With p > 0.05, the difference between the groups is not statistically significant. Thus, _H5_ is rejected.
 
-### Summary {#summary}
+#### Summary {#summary}
 
 | **Hypothesis** | **Status** | **Relevant?** |
 | --- | ---|---|
@@ -125,9 +125,38 @@ Finally, the following table summarizes the hypotheses concepts and whether a re
 <br>This is the basis for the following discussion.
 
 ## Discussion {#discussion}
+**Hypothesis 1**
+<br>Book reviewers do not feel to obliged to give anything more in return for the free copy than their opinion. Even more, positive publicity might be more relevant for other product types than books; in the latter case, even negative publicity might be valuable. This could explain why IRs and NIRs do not differ with respect to positivity.
+
+**Hypotheses 2 & 3**
+<br>Book reviewers might not be aware of the possible danger of adding a disclosure statement to their reviews; thus, the underlying assumption of „self-fulfilling prophecy“ can be rejected. At the same time, an explanation for the confirmation of H3 could be the aforementioned _norm of reciprocity_.
+
+**Hypothesis 4**
+<br>Reviewer motivations, while certainly different for incentivized and non-incentivized reviewers, are not reflected by extreme star ratings.
+
+**Hypothesis 5**
+<br>It can be assumed that book reviewers develop an uniform writing style in reviews. Therefore, it does not make a difference whether the review is published shortly after the product experience or not.
 
 ## Conclusion {#conclusion}
+❓ Do incentivized book reviews show signs of influence if the reviewer received a free book copy?
 
+❗ Incentivization indeed impacts the contents of book reviews, but only marginally. The only form of impact that has been found is an influence on review elaborateness (in terms of review length).
+
+**Practical Implications**
+<br>The results are relevant for book market stakeholders. While only a small impact of incentivization has been found, this influence should not considered to be negative. Contrarily, a longer review is attractive for both publishers/authors and review readers because they contain more information. At the same time, IRs show no other signs of influence and could be deemed just as credible and authentic as NIRs. Thus, review copy-based cooperations between seem to be valuable for all parties.
+
+**Limitations**
+<br>The findings are only valid with respect to this study’s product type, genre, language, reviewing platform, and temporal limitation.
+
+**Further Research Perspectives**
+- different formalisation and operationalisation of the concepts
+- repeat analysis with sentence-based data
+- try to avoid misclassification of NIRs
+- use different NIR sample
+- avoid biases by analyzing intra-reviewer or intra-book differences
+- analyze a different genre
+- derive hypotheses from book market-specifics
+etc.
 
 ---
-[^1] Note that the p-value is not exactly zero. This stems from rounding the values.
+[^1]: Note that the p-value is not exactly zero. This stems from rounding the values.

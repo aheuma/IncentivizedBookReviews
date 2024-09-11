@@ -7,7 +7,7 @@ layout: page
 
 ## The LoBo Corpus {#data-lobo-corpus}
 
-The LovelyBooks corpus (LoBo corpus) is a dataset of German online book reviews which were collected by S. Rebora, B. Herrmann, and T. Messerli[^1]. The dataset comprises about 1.4 mio. book reviews, sorted by 16 genres. The distribution (in absolute numbers) and the respective genres can be found in the following plot:
+The LovelyBooks corpus (LoBo corpus) is a dataset of German online book reviews which were collected by S. Rebora, B. Herrmann, and T. Messerli[^1]. The dataset comprises about 1,4 mio. book reviews, sorted by 16 genres. The distribution (in absolute numbers) and the respective genres can be found in the following plot:
 
 {% include figure.html image="../assets/images/total_reviews_per_genre_BAR.png" position="center" height="90%" %} 
 
@@ -34,7 +34,7 @@ It was decided to focus on a single genre, due to two reasons:
 
 The aim consisted in building two sub-corpora (one with incentivized and one with non-incentivized reviews) of a singe genre. The genre selection was based on the number of available reviews as it was conceivable that the absolute number of incentivized reviews (IRs) would be much smaller than that of non-incentivized reviews (NIRs)[^2]. Thus, the genre with the highest number of IRs was selected and the respective size worked as the benchmark for the sub-corpus of NIRs.
 
-### Identification of IRs {#identification-irs}
+#### Identification of IRs {#identification-irs}
 
 To detect IRs, this study followed the approach by two other studies[^3] who created lists of deterministic terms and phrases to detect IRs. The present work goes back to the observation that book reviewers explicitly mention their honest opinions although they have received a free review copy on LovelyBooks. Thus, the main assumption is that a book review is incentivized if such a non-monetary incentive is explicitly referenced in the review. 
 
@@ -42,10 +42,10 @@ The following table presents the results of close-reading randomly selected revi
 
 {% include figure.html image="../assets/images/Disclosures_Summary.png" position="center" height="90%" %} 
 
-### Identification of NIRs {#identification-nirs}
+#### Identification of NIRs {#identification-nirs}
 To identify NIRs, this study assumes that a review which is not explicitly marked as being incentivized is non-incentivized. Although this harbors the risk that the NIR corpus contains false-negative reviews (reviews that are incentivized but do not contain an explicit reference), this approach prooved to be more accurate than another approach, for example by searching for reviews that explicitly mention a purchase intention.
 
-### Genre Selection {#genre-selection}
+#### Genre Selection {#genre-selection}
 The following plot presents an overview over the shares of IRs per genre:
 
 {% include figure.html image="../assets/images/reviews_IR_shares_ALL.png" position="center" height="90%" %}
@@ -56,7 +56,7 @@ As can be seen, the IR shares range from 0.18% (for the classics genre) to 5.6% 
 
 As the romance genre has the highest number of IRs, it was selected for the analyses.
 
-### Review Type Analysis {#review-type-analysis}
+#### Review Type Analysis {#review-type-analysis}
 On LovelyBooks, different kinds of reviews can be published:
 1. normal reviews ("Rezensionen")
 2. short reviews up to 140 characters ("Kurzmeinungen")
@@ -74,8 +74,8 @@ The following plot shows the distribution of the review types in the romance gen
 
 As type 1-reviews are very short, they do not convey much meaning. Thus, it was decided to exclude them from the analysis.
 
-### Interim Summary {#interim-summary}
-In a last step, non-German reviews were detected and excluded from the corpus. Overall, the reduced romance corpus contains 109 553 reviews, out of these 4872 IRs. Thus, 4872 NIRs were randomly selected and both sub-corpora saved separately. 
+#### Interim Summary {#interim-summary}
+In a last step, non-German reviews were detected and excluded from the corpus. Overall, the reduced romance corpus contains 109,553 reviews, out of these 4,872 IRs. Thus, 4,872 NIRs were randomly selected and both sub-corpora saved separately. 
 
 
 ## Pre-Processing {#pre-processing}
@@ -91,9 +91,9 @@ Quotation marks were unified to avoid potential parsing issues. Emoticons and sp
 
 Kim et al. do not include the disclosure phrase in their analyses because, e.g. for the hypothesis about review elaborateness, this additional sentence could distort the results.
 
-The present thesis follows a different approach. This is mainly due to the function that the disclaimer serves. In Kim et al.’s study, the only purpose of the disclaimer is to inform readers that the reviewer has been sponsored - it does not include e.g. a product-related statement. Thus, it has no relevance for the actual analysis. For the disclaimers in the LoBo corpus, the case is different. Here, the disclaimers serve a dual function: While they are used to identify sponsored reviews, there are also cases where this disclaimer is part of an evaluative statement about the book or the reading experience. Therefore, it can be argued that the sentences expressing gratitude for having received a free book - the disclaimers - contain product-related evaluations by book reviewers. Thus, the disclaimers are not removed for any of the hypotheses.
+The present thesis follows a different approach. This is mainly due to the function that the disclaimer serves. In Kim et al.’s study, the only purpose of the disclaimer is to inform readers that the reviewer has been sponsored. It does not include e.g. a product-related statement. Thus, it has no relevance for the actual analysis. For the disclaimers in the LoBo corpus, the case is different. Here, the disclaimers serve a dual function: While they are used to identify sponsored reviews, there are also cases where this disclaimer is part of an evaluative statement about the book or the reading experience. Therefore, it can be argued that the sentences expressing gratitude for having received a free book—the disclaimers—contain product-related evaluations by book reviewers. Thus, the disclaimers are not removed for any of the hypotheses.
 
-## Hypothesis Testing {#hypothesis-testing}
+## Formalization & Operationalization {#formalization-operationalization}
 The following table shows an overview over the approach used by this study to formalize and operationalize the hypotheses. The asterisk character (*) marks parts were this thesis uses a different approach compared to Kim et al.
 
 | | Hypothesis | Formalization | Operationalization |

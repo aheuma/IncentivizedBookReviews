@@ -5,7 +5,7 @@ layout: page
 
 ---
 
-# Results {#results}
+## Hypothesis Testing {#hypothesis-testing}
 Generally, to test the hypotheses, the following steps are necessary:
 1. Compare mean / median scores
 2. Check test assumptions
@@ -124,9 +124,9 @@ Finally, the following table summarizes the hypotheses concepts and whether a re
 
 <br>This is the basis for the following discussion.
 
-# Discussion {#discussion}
+## Discussion {#discussion}
 
-# Conclusion {#conclusion}
+## Conclusion {#conclusion}
 
 
 ---

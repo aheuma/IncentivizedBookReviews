@@ -10,8 +10,7 @@ feature_text: |
 This is the web-based presentation of a master thesis which was developed in the context of the master program "Digitale Methodik in den Geistes- und Kulturwissenschaften" (Digital Humanities) at Johannes Gutenberg-University Mainz and Hochschule Mainz. 
 
 The following information can be found on this website:
-- [Background](./background/): theoretical foundations, e.g. impact of reviews on the market, book reviewers, and book reviewing platforms
-- [Hypotheses](./hypotheses/): underlying assumptions, reasoning and derived hypotheses
+- [Background](./background/): theoretical foundations, e.g. impact of reviews on the market, book reviewers, and book reviewing platforms, and the hypotheses derivation, including the argumentative reasoning
 - [Methods](./methods/): explanation of the chosen methodology, e.g. used dataset, formalization and operationalization of the hypotheses concepts, etc.
 - [Results](./results/): description and discussion of the results, final conclusion
 - [References](./references/): bibliography

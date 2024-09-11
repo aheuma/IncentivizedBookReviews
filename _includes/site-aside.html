@@ -37,6 +37,12 @@
       {% include site-aside-background.html %}
     </section>
 
+  {% elsif page.layout == "page" and page.title == "Resources" %}
+    <section class="section  section--description">
+      <h3>Contents</h3>
+      {% include site-aside-resources.html %}
+    </section>
+
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
       <h3>Index</h3>

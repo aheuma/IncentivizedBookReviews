@@ -4,10 +4,15 @@ layout: resources
 pdf_file: "../assets/Hypothesenkapitel.pdf"
 ---
 
-## Master Thesis
+## Master Thesis {#thesis}
 
-## Data
 
-## Poster
+## Poster {#poster}
 
+
+## Scripts {#scripts}
+
+## Generated Data {#generated-data}
+
+## Bibliography {#bibliography}
 

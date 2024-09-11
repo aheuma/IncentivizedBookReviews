@@ -125,8 +125,6 @@ navigation_header:
   url: /
 - title: Background
   url: /background/
-- title: Data
-  url: /data/
 - title: Hypotheses
   url: /hypotheses/
 - title: Methods

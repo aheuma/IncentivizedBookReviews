@@ -13,11 +13,18 @@ aside: true
 
 ## Scripts {#scripts}
 
-| Script | Chapter | Purpose |
-| --- | --- | --- |
-| [addColumn_Language_romance.py](https://github.com/aheuma/IncentivizedBookReviews/Resources/Scripts/addColumn_Language_romance.py) | 6.1 | adds a Column to romance reviews, indicating the reviews' language |
-
-
+| Purpose | Page | |
+| --- | :--- | --- |
+| Transform token level data to review level | xx | [File](../Resources/Scripts/createReviewLevelCSV_allGenres.py) | 
+| Get review metadata | xx| [File](../Resources/Scripts/getMetadata.py) | 
+| Add incentivization status and review type to all reviews in all genres | xx |[File](../Resources/Scripts/addColumns_allGenres.py) | 
+| Create tables with 5 reviews per genre with potential disclosure terms | xx| [File](../Resources/Scripts/detectIRs.py) | 
+| Create an overview table with (non-)incentivized reviews per genre | xx| [File](../Resources/Scripts/summarizeIncentivizationStatus_allGenres.py) | 
+| Create table with 5 reviews per genre with purchase intention | xx| [File](../Resources/Scripts/detectNIRs_approach1DepMatch.py) | 
+| Create table with 5 reviews per genre with incentivization status = 0 | xx| [File](../Resources/Scripts/detectNIRs_approach2.py) | 
+| Add additional column to romance reviews, indicating review language | xx|[File](../Resources/Scripts/addColumn_Language_romance.py) |
+| Create the two sub-corpora of IRs and NIRs | xx| [File](../Resources/Scripts/filterData_romance.py) | 
+| Preprocess data | xx| [File](../Resources/Scripts/preprocessData.py) | 
 
 
 ## Generated Data {#generated-data}

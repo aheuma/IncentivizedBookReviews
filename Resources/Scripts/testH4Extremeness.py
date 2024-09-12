@@ -30,15 +30,25 @@ def conductChiSquareTest(contingency_table):
     cramers_v = np.sqrt(chi2 / (n * min_dim))
     print(f"Cramers V (effect size): {cramers_v}")
 
-def createStackedBarPlot(contingency_table):
-    contingency_table.plot(kind='bar', stacked=True, color=['#E54E35', '#FDBB6C', '#FEFFBE', '#B3DF72', '#3FAA59'])
-    plt.xlabel('Review Type')
-    plt.ylabel('Share in %')
-    plt.legend(title='Star Rating')
-    plt.xticks(rotation=30, ha='right')
-    plt.yticks(np.arange(0, 101, 10))
-    plt.subplots_adjust(bottom=0.2)
-    plt.savefig("./Arbeitspakete/AP2_Analyse/Plots/Analysis/H4_StarRatingDistribution_relative.png", dpi=300, bbox_inches='tight')
+def createBarPlot():
+    data = {
+        'IRs': [0.965, 3.777, 12.356, 30.255, 52.648],
+        'NIRs': [1.375, 4.598, 13.834, 32.204, 47.989]
+    }
+    ratings = [1, 2, 3, 4, 5]
+    df = pd.DataFrame(data, index=ratings)
+    bar_width = 0.35
+    index = np.arange(len(ratings))
+    fig, ax = plt.subplots()
+    bars1 = ax.bar(index, df['IRs'], bar_width, label='IR', color='#7E7EFD')
+    bars2 = ax.bar(index + bar_width, df['NIRs'], bar_width, label='NIR', color='#FFD17F')
+    ax.set_xlabel('Star Rating')
+    ax.set_ylabel('Share in %')
+    ax.set_xticks(index + bar_width / 2)  # Set x-ticks in the middle of the bars
+    ax.set_xticklabels(ratings)
+    ax.legend(title='Review Type')
+    plt.tight_layout()
+    plt.savefig("./Arbeitspakete/AP2_Analyse/Plots/Analysis/H4_Distribution_StarRatings.png", dpi=300, bbox_inches='tight')
 
 IR_path = "./Arbeitspakete/AP2_Analyse/liebesroman-corpus/Analysis/LOBOV5_liebesroman_IRs_prep.csv"
 NIR_path = "./Arbeitspakete/AP2_Analyse/liebesroman-corpus/Analysis/LOBOV5_liebesroman_NIRs_prep.csv"
@@ -62,7 +72,7 @@ print("Contingency table (relative frequencies):")
 print(relative_frequencies)
 
 conductChiSquareTest(contingency_table)
-createStackedBarPlot(relative_frequencies)
+createBarPlot()
 
-print(f"IR median: {IR_df['StarRating'].mean()}")
-print(f"NIR median: {NIR_df['StarRating'].mean()}")
+#print(f"IR median: {IR_df['StarRating'].mean()}")
+#print(f"NIR median: {NIR_df['StarRating'].mean()}")

@@ -58,7 +58,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 | Distribution plot for H1 | xx| [File](../Resources/Plots/H1_Distribution_AAP.png) |
 | Distribution plot for H2 | xx| [File](../Resources/Plots/H2_Distribution_AverageWordLength.png) |
 | Distribution plot for H3 | xx| [File](../Resources/Plots/H3_Distribution_AverageReviewLength.png) |
-| Distribution plot for H4 | xx| [File](../Resources/Plots/H4_StarRatingDistribution_relative.png) |
+| Distribution plot for H4 | xx| [File](../Resources/Plots/H4_Distribution_StarRatings.png) |
 | Distribution plot for H5 | xx| [File](../Resources/Plots/H5_Distribution_ShareEmotionalWords.png) |
 
 <br>

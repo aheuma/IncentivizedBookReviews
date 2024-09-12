@@ -13,6 +13,13 @@ aside: true
 
 ## Scripts {#scripts}
 
+| Script | Chapter | Purpose |
+| --- | --- | --- |
+| [addColumn_Language_romance.py](https://github.com/aheuma/IncentivizedBookReviews/Resources/Scripts/addColumn_Language_romance.py) | 6.1 | adds a Column to romance reviews, indicating the reviews' language |
+
+
+
+
 ## Generated Data {#generated-data}
 
 ## Bibliography {#bibliography}

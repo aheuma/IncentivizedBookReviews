@@ -17,7 +17,7 @@ The following information can be found on this website:
 - [Resources](./resources/): additional resources, e.g. the pdf of the thesis and the poster, a list with Python-scripts, the bibliography, etc.
 
 ## Short Summary
-The thesis analyzes the impact of incentivization on book reviews, in terms of review copies which are send by publishers/authors to literary critics, in this case: lay reviewers on LovelyBooks. The main question is whether incentivized book reviewers show signs of being influenced by having received a review copy. The reviews are compared in terms of their positivity, complexity, elaborateness, extremeness, and objectivity.
+The thesis analyzes the impact of incentivization on book reviews, in terms of review copies which are send by publishers/authors to literary critics, in this case: lay reviewers on LovelyBooks. The main question is whether incentivized book reviews show signs of influence if the reviewer received a review copy. The reviews are compared in terms of their positivity, complexity, elaborateness, extremeness, and objectivity.
 
 
 

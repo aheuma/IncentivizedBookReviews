@@ -66,8 +66,6 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 Börsenverein d. Deutschen Buchhandels, Abt. Marktforsch. u. Statistik (Ed.). (2022). _Buch und Buchhandel in Zahlen 2022_: Zahlen, Fakten und Analysen zur wirtschaftlichen Entwicklung. MVB.
 
-Incentivization. (2024). _Collins Dictionary_. Harper Collins. [URL](https://www.collinsdictionary.com/de/worterbuch/englisch/).
-
 Costa, A., Guerreiro, J., Moro, S., & Henriques, R. (2019). Unfolding the characteristics of incentivized online reviews. _Journal of Retailing and Consumer Services_, 47, 272–281. [DOI](https://doi.org/10.1016/j.jretconser.2018.12.006).
 
 Friestad, M., & Wright, P. (1994). The Persuasion Knowledge Model: How People Cope with Persuasion Attempts. _Journal of Consumer Research_, 21(1), 1–31. [DOI](https://doi.org/10.1086/209380).
@@ -78,11 +76,13 @@ Heider, F. (1958). The psychology of interpersonal relations (pp. ix, 326). John
 
 Hu, Y., LeBlanc, Z., Diesner, J., Underwood, T., Layne-Worthey, G., & Downie, J. S. (2023). Complexities of leveraging user-generated book reviews for scholarly research: Transiency, power dynamics, and cultural dependency. _International Journal on Digital Libraries_. [DOI](https://doi.org/10.1007/s00799-023-00376-z).
 
+Incentivization. (2024). _Collins Dictionary_. Harper Collins. [URL](https://www.collinsdictionary.com/de/worterbuch/englisch/).
+
 Kim, S. J., Maslowska, E., & Tamaddoni, A. (2019). The paradox of (dis)trust in sponsorship disclosure: The characteristics and effects of sponsored online consumer reviews. _Decision Support Systems_, 116, 114–124. [DOI](https://doi.org/10.1016/j.dss.2018.10.014).
 
-Lauer, G. (2020). Lesen im digitalen Zeitalter. wbg Academic.
-
 Landesmedienanstalten. (2019, January 23). Leitfaden der Medienanstalten – Werbekennzeichnung bei Online-Medien 2018. die medienanstalten – ALM GbR. [URL](https://web.archive.org/web/20190123123317/https://www.die-medienanstalten.de/fileadmin/user_upload/Rechtsgrundlagen/Richtlinien_Leitfaeden/Leitfaden_Medienanstalten_Werbekennzeichnung_Social_Media.pdf).
+
+Lauer, G. (2020). Lesen im digitalen Zeitalter. wbg Academic.
 
 Li, Y., & Zhang, L. (2021). Do online reviews truly matter? A study of the characteristics of consumers involved in different online review scenarios. _Behaviour & Information Technology_, 40(13), 1448–1466. [DOI](https://doi.org/10.1080/0144929X.2020.1759691).
 

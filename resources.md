@@ -38,6 +38,25 @@ aside: true
 
 ## Generated Data {#generated-data}
 
+| Purpose |  Page | |
+| --- | :--- | --- |
+| Overview over shares of incentivized reviews per genre | xx| [File](../Resources/Other/genre_overview_incentivization.xlsx) | 
+| Comparison of incentivization shares with Hu et al. 2023 | xx| [File](../Resources/Other/incentivization_comparison_Hu et al.xlsx) | 
+| Summary of the accuracy of potential terms to detect incentivized reviews | xx| [File](../Resources/Other/IR detection_summary.xlsx) | 
+| Overview over the descriptive statistics for the five analyses | xx| [File](../Resources/Other/descriptiveOverview_romance.csv) | 
+
+<br>Note that some files must not be published due to copyright restrictions. This applies for example to the tables to check the accuracy of the IR and NIR detection approaches.
+
+## Plots {#plots}
+
+| Content |  Page | |
+| --- | :--- | --- |
+| Total number of reviews per Genre in the LoBo Corpus | xx| [File](../Resources/Plots/total_reviews_per_genre_BAR.png) | 
+| Share of incentivized reviews per genre | xx| [File](../Resources/Plots/reviews_IR_shares_ALL.png) | 
+| Comparison of shares of incentivized reviews for different genres and sources | xx| [File](../Resources/Plots/hu_IR_comparison.png) |
+| Absolute numbers of incentivized reviews per genre | xx| [File](../Resources/Plots/reviews_IRs_absolute_per_genre_BAR.png) | 
+| Share of the review types in the romance genre | xx| [File](../Resources/Plots/review_type_shares_romance.png) |
+
 ## Bibliography {#bibliography}
 
 

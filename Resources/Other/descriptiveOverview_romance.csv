@@ -1,0 +1,5 @@
+review type,measure,h1_sentiment,h2_complexity,h3_elaborateness,h4_extremity,h5_objectivity
+IR,mean,0.2612,5.2486,475.8192,4.2984,91.7514
+IR,std,0.1249,0.2718,311.3817,0.8939,2.0898
+NIR,mean,0.2775,5.2886,327.6587,4.2083,91.3303
+NIR,std,0.1788,0.4158,280.9906,0.9395,3.8464

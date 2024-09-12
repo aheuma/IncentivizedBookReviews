@@ -12,7 +12,7 @@ The following information can be found on this website:
 - [Hypotheses](./hypotheses/): hypotheses derivation, including the argumentative reasoning
 - [Methods](./methods/): explanation of the chosen methodology, e.g. used dataset, formalization and operationalization of the hypotheses concepts, etc.
 - [Results](./results/): description and discussion of the results, final conclusion
-- [Resources](./resources/): additional resources, e.g. the pdf of the thesis and the poster, a list with Python-scripts, the bibliography, etc.
+- [Resources](./resources/): additional resources, e.g. the pdf of the poster of this thesis, a list with Python-scripts, the bibliography, etc.
 
 ## Short Summary
 The thesis analyzes the impact of incentivization on book reviews, in terms of review copies which are send by publishers/authors to literary critics, in this case: lay reviewers on LovelyBooks. The main question is whether incentivized book reviews show signs of influence if the reviewer received a review copy. The reviews are compared in terms of their positivity, complexity, elaborateness, extremeness, and objectivity.

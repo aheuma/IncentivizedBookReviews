@@ -43,8 +43,12 @@ body {
   overflow: hidden;
 }
 
+.border {
+  border-bottom: solid #583101;
+}
+
 .feature {
-  border-top: solid #583101;
+  //border-top: solid #583101;
   padding-bottom: .4rem;
   //margin-bottom: 1.6rem;
   text-align: center;
@@ -103,7 +107,6 @@ body {
   }
 }
 
-
 // Pagination nav
 .nav--paginator {
   @include flexbox;
@@ -119,7 +122,6 @@ body {
 
 // Main content
 .main {
-  border-top: solid #583101;
   @include flexbox;
   @include flex-direction(column);
   @include flex(1, 0, auto);

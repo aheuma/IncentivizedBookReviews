@@ -1,9 +1,7 @@
 ---
 title: Home
 feature_text: |
-  ## The Impact of Review Copies 
-  ## on German Online Book Reviews
-  ## from LovelyBooks
+  ## The Impact of Review Copies on German Online Book Reviews from LovelyBooks
   
 ---
 

@@ -142,8 +142,9 @@ Finally, the following table summarizes the hypotheses concepts and whether a re
 
 ❗ Incentivization indeed impacts the contents of book reviews, but only marginally. The only form of impact that has been found is an influence on review elaborateness (in terms of review length).
 
-**Practical Implications**
-<br>The results are relevant for book market stakeholders. While only a small impact of incentivization has been found, this influence should not considered to be negative. Contrarily, a longer review is attractive for both publishers/authors and review readers because they contain more information. At the same time, IRs show no other signs of influence and could be deemed just as credible and authentic as NIRs. Thus, review copy-based cooperations between seem to be valuable for all parties.
+Incentivization indeed impacts the contents of book reviews, but the only form of impact that has been found is an influence on review elaborateness (in terms of review length). At the same time, book reviews do not differ with respect to positivity, complexity, extremeness, and objectivity.
+
+However, the phenomenon of „influence“ needs further investigation because there might be more dimensions than just the five considered in this thesis. Also, a conclusion such as „longer reviews are influenced“ is abridged.
 
 **Limitations**
 <br>The findings are only valid with respect to this study’s product type, genre, language, reviewing platform, and temporal limitation.

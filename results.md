@@ -140,9 +140,7 @@ Finally, the following table summarizes the hypotheses concepts and whether a re
 ## Conclusion {#conclusion}
 ❓ Do incentivized book reviews show signs of influence if the reviewer received a free book copy?
 
-❗ Incentivization indeed impacts the contents of book reviews, but only marginally. The only form of impact that has been found is an influence on review elaborateness (in terms of review length).
-
-Incentivization indeed impacts the contents of book reviews, but the only form of impact that has been found is an influence on review elaborateness (in terms of review length). At the same time, book reviews do not differ with respect to positivity, complexity, extremeness, and objectivity.
+❗ Incentivization indeed impacts the contents of book reviews, but the only form of impact that has been found is an influence on review elaborateness (in terms of review length). At the same time, book reviews do not differ with respect to positivity, complexity, extremeness, and objectivity.
 
 However, the phenomenon of „influence“ needs further investigation because there might be more dimensions than just the five considered in this thesis. Also, a conclusion such as „longer reviews are influenced“ is abridged.
 

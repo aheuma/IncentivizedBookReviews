@@ -9,6 +9,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 ## Poster {#poster}
 
+<object data="../assets/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
 
 ## Scripts {#scripts}
 
@@ -64,7 +65,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 <br>
 ## Bibliography {#bibliography}
 
-Börsenverein d. Deutschen Buchhandels, Abt. Marktforsch. u. Statistik (Ed.). (2022). _Buch und Buchhandel in Zahlen 2022_: Zahlen, Fakten und Analysen zur wirtschaftlichen Entwicklung. MVB.
+Börsenverein d. Deutschen Buchhandels, Abt. Marktforsch. u. Statistik (Ed.). (2024). _Buch und Buchhandel in Zahlen 2024_: Zahlen, Fakten und Analysen zur wirtschaftlichen Entwicklung. MVB.
 
 Costa, A., Guerreiro, J., Moro, S., & Henriques, R. (2019). Unfolding the characteristics of incentivized online reviews. _Journal of Retailing and Consumer Services_, 47, 272–281. [DOI](https://doi.org/10.1016/j.jretconser.2018.12.006).
 

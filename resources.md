@@ -13,34 +13,34 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 ## Scripts {#scripts}
 
-| Purpose |  Page | |
-| --- | :--- | --- |
-| Transform token level data to review level | xx| [File](../Resources/Scripts/createReviewLevelCSV_allGenres.py) | 
-| Get review metadata | xx| [File](../Resources/Scripts/getMetadata.py) | 
-| Add incentivization status and review type to all reviews in all genres | xx |[File](../Resources/Scripts/addColumns_allGenres.py) | 
-| Create tables with 5 reviews per genre with potential disclosure terms | xx| [File](../Resources/Scripts/detectIRs.py) | 
-| Create an overview table with (non-)incentivized reviews per genre | xx| [File](../Resources/Scripts/summarizeIncentivizationStatus_allGenres.py) | 
-| Create table with 5 reviews per genre with purchase intention | xx| [File](../Resources/Scripts/detectNIRs_approach1DepMatch.py) | 
-| Create table with 5 reviews per genre with incentivization status = 0 | xx| [File](../Resources/Scripts/detectNIRs_approach2.py) | 
-| Add additional column to romance reviews, indicating review language | xx|[File](../Resources/Scripts/addColumn_Language_romance.py) |
-| Create the two sub-corpora of IRs and NIRs | xx| [File](../Resources/Scripts/filterData_romance.py) | 
-| Preprocess data | xx| [File](../Resources/Scripts/preprocessData.py) | 
-| Analyze H1: Positivity | xx| [File](../Resources/Scripts/analyzeH1Positivity.py) |
-| Analyze H2: Complexity | xx| [File](../Resources/Scripts/analyzeH2Complexity.py) |
-| Analyze H3: Elaborateness | xx| [File](../Resources/Scripts/analyzeH3Elaborateness.py) |
-| Analyze H4: Extremeness | xx| [File](../Resources/Scripts/analyzeH4Extremeness.py) |
-| Analyze H5: Objectivity | xx| [File](../Resources/Scripts/analyzeH5Objectivity.py) |
-| Test hypotheses H1-H3 and H5 | xx| [File](../Resources/Scripts/testHypotheses.py) |
-| Test hypothesis H4 | xx| [File](../Resources/Scripts/testH4Extremeness.py) |
-| Merge IR and NIR file for H4 | xx| [File](../Resources/Scripts/mergeIRandNIR.py) |
-| Create table with descriptive statistics for all analyses | xx| [File](../Resources/Scripts/createDescriptiveOverview_romance.py) |
-| Generate plots to visualize results | | [File](../Resources/Scripts/createPlots.py) |
+| Purpose |  |
+| --- | --- |
+| Transform token level data to review level | [File](../Resources/Scripts/createReviewLevelCSV_allGenres.py) | 
+| Get review metadata | [File](../Resources/Scripts/getMetadata.py) | 
+| Add incentivization status and review type to all reviews in all genres | [File](../Resources/Scripts/addColumns_allGenres.py) | 
+| Create tables with 5 reviews per genre with potential disclosure terms |  [File](../Resources/Scripts/detectIRs.py) | 
+| Create an overview table with (non-)incentivized reviews per genre | [File](../Resources/Scripts/summarizeIncentivizationStatus_allGenres.py) | 
+| Create table with 5 reviews per genre with purchase intention | [File](../Resources/Scripts/detectNIRs_approach1DepMatch.py) | 
+| Create table with 5 reviews per genre with incentivization status = 0 | [File](../Resources/Scripts/detectNIRs_approach2.py) | 
+| Add additional column to romance reviews, indicating review language | [File](../Resources/Scripts/addColumn_Language_romance.py) |
+| Create the two sub-corpora of IRs and NIRs |  [File](../Resources/Scripts/filterData_romance.py) | 
+| Preprocess data | [File](../Resources/Scripts/preprocessData.py) | 
+| Analyze H1: Positivity |  [File](../Resources/Scripts/analyzeH1Positivity.py) |
+| Analyze H2: Complexity | [File](../Resources/Scripts/analyzeH2Complexity.py) |
+| Analyze H3: Elaborateness |  [File](../Resources/Scripts/analyzeH3Elaborateness.py) |
+| Analyze H4: Extremeness |  [File](../Resources/Scripts/analyzeH4Extremeness.py) |
+| Analyze H5: Objectivity |  [File](../Resources/Scripts/analyzeH5Objectivity.py) |
+| Test hypotheses H1-H3 and H5 |  [File](../Resources/Scripts/testHypotheses.py) |
+| Test hypothesis H4 |  [File](../Resources/Scripts/testH4Extremeness.py) |
+| Merge IR and NIR file for H4 | [File](../Resources/Scripts/mergeIRandNIR.py) |
+| Create table with descriptive statistics for all analyses | [File](../Resources/Scripts/createDescriptiveOverview_romance.py) |
+| Generate plots to visualize results |  [File](../Resources/Scripts/createPlots.py) |
 
 <br>
 ## Generated Data {#generated-data}
 
-| Purpose |  Page | |
-| --- | :--- | --- |
+| Purpose |   |
+| --- | --- |
 | Overview over shares of incentivized reviews per genre | xx| [File](../Resources/Other/genre_overview_incentivization.xlsx) | 
 | Comparison of incentivization shares with Hu et al. 2023 | xx| [File](../Resources/Other/incentivization_comparison_Hu et al.xlsx) | 
 | Summary of the accuracy of potential terms to detect incentivized reviews | xx| [File](../Resources/Other/IR detection_summary.xlsx) | 

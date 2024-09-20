@@ -42,8 +42,8 @@ Note that some files can not be published due to copyright restrictions. This ap
 | Purpose |   |
 | --- | --- |
 | Overview over shares of incentivized reviews per genre | [File](../Resources/Other/genre_overview_incentivization.xlsx) | 
-| Comparison of incentivization shares with Hu et al. 2023 | [File](../Resources/Other/incentivization_comparison_Hu et al.xlsx) | 
-| Summary of the accuracy of potential terms to detect incentivized reviews |  [File](../Resources/Other/IR detection_summary.xlsx) | 
+| Comparison of incentivization shares with Hu et al. 2023 | [File](../Resources/Other/incentivization_comparison_Hu.xlsx) | 
+| Summary of the accuracy of potential terms to detect incentivized reviews |  [File](../Resources/Other/IR_detection_summary.xlsx) | 
 | Overview over the descriptive statistics for the five analyses | [File](../Resources/Other/descriptiveOverview_romance.csv) | 
 
 <br>

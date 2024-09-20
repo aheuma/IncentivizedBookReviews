@@ -41,26 +41,26 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 | Purpose |   |
 | --- | --- |
-| Overview over shares of incentivized reviews per genre | xx| [File](../Resources/Other/genre_overview_incentivization.xlsx) | 
-| Comparison of incentivization shares with Hu et al. 2023 | xx| [File](../Resources/Other/incentivization_comparison_Hu et al.xlsx) | 
-| Summary of the accuracy of potential terms to detect incentivized reviews | xx| [File](../Resources/Other/IR detection_summary.xlsx) | 
-| Overview over the descriptive statistics for the five analyses | xx| [File](../Resources/Other/descriptiveOverview_romance.csv) | 
+| Overview over shares of incentivized reviews per genre | [File](../Resources/Other/genre_overview_incentivization.xlsx) | 
+| Comparison of incentivization shares with Hu et al. 2023 | [File](../Resources/Other/incentivization_comparison_Hu et al.xlsx) | 
+| Summary of the accuracy of potential terms to detect incentivized reviews |  [File](../Resources/Other/IR detection_summary.xlsx) | 
+| Overview over the descriptive statistics for the five analyses | [File](../Resources/Other/descriptiveOverview_romance.csv) | 
 
 <br>
 ## Plots {#plots}
 
-| Content |  Page | |
-| --- | :--- | --- |
-| Total number of reviews per Genre in the LoBo Corpus | xx| [File](../Resources/Plots/total_reviews_per_genre_BAR.png) | 
-| Share of incentivized reviews per genre | xx| [File](../Resources/Plots/reviews_IR_shares_ALL.png) | 
-| Comparison of shares of incentivized reviews for different genres and sources | xx| [File](../Resources/Plots/hu_IR_comparison.png) |
-| Absolute numbers of incentivized reviews per genre | xx| [File](../Resources/Plots/reviews_IRs_absolute_per_genre_BAR.png) | 
-| Share of the review types in the romance genre | xx| [File](../Resources/Plots/review_type_shares_romance.png) |
-| Distribution plot for H1 | xx| [File](../Resources/Plots/H1_Distribution_AAP.png) |
-| Distribution plot for H2 | xx| [File](../Resources/Plots/H2_Distribution_AverageWordLength.png) |
-| Distribution plot for H3 | xx| [File](../Resources/Plots/H3_Distribution_AverageReviewLength.png) |
-| Distribution plot for H4 | xx| [File](../Resources/Plots/H4_Distribution_StarRatings.png) |
-| Distribution plot for H5 | xx| [File](../Resources/Plots/H5_Distribution_ShareEmotionalWords.png) |
+| Content |  |
+| --- | --- |
+| Total number of reviews per Genre in the LoBo Corpus | [File](../Resources/Plots/total_reviews_per_genre_BAR.png) | 
+| Share of incentivized reviews per genre |  [File](../Resources/Plots/reviews_IR_shares_ALL.png) | 
+| Comparison of shares of incentivized reviews for different genres and sources |  [File](../Resources/Plots/hu_IR_comparison.png) |
+| Absolute numbers of incentivized reviews per genre |  [File](../Resources/Plots/reviews_IRs_absolute_per_genre_BAR.png) | 
+| Share of the review types in the romance genre |  [File](../Resources/Plots/review_type_shares_romance.png) |
+| Distribution plot for H1 | [File](../Resources/Plots/H1_Distribution_AAP.png) |
+| Distribution plot for H2 | [File](../Resources/Plots/H2_Distribution_AverageWordLength.png) |
+| Distribution plot for H3 |  [File](../Resources/Plots/H3_Distribution_AverageReviewLength.png) |
+| Distribution plot for H4 |  [File](../Resources/Plots/H4_Distribution_StarRatings.png) |
+| Distribution plot for H5 |  [File](../Resources/Plots/H5_Distribution_ShareEmotionalWords.png) |
 
 <br>
 ## Bibliography {#bibliography}

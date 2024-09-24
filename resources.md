@@ -14,7 +14,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 <object data="../Resources/Other/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
 
-In case the poster is not displayed properly (this could happen e.g. on some smartphones), you can access the file [here](../Resources/Other/MA_Poster.pdf)
+In case the poster is not displayed properly (this could happen e.g. on some smartphones), you can access the file [here](../Resources/Other/MA_Poster.pdf).
 
 ## Scripts {#scripts}
 

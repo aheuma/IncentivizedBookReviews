@@ -10,12 +10,6 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 <iframe src="https://docs.google.com/gview?url=https://aheuma.github.io/IncentivizedBookReviews/Resources/Other/MA_Poster.pdf&amp;embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
 
-<!-- 
-<object data="../Resources/Other/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
-
-
-In case the poster is not displayed properly (e.g. on smartphones), you can access the file here: [Poster](../Resources/Other/MA_Poster.pdf)
--->
 ## Scripts {#scripts}
 
 | Purpose |  |

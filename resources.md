@@ -9,7 +9,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 ## Poster {#poster}
 
-<object data="../assets/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
+<object data="../assets/Resources/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
 
 ## Scripts {#scripts}
 

@@ -7,8 +7,14 @@ aside: true
 Note that some files can not be published due to copyright restrictions. This applies for example to the master thesis or the tables that were used to check the accuracy of the IR and NIR detection approaches.
 
 ## Poster {#poster}
+<!--
+<iframe src="https://docs.google.com/gview?url=https://aheuma.github.io/IncentivizedBookReviews/Resources/Other/MA_Poster.pdf&amp;embedded=true style="width:100%; height:800px;" frameborder="0"></iframe>
+ 
+-->
 
-<iframe src="https://docs.google.com/gview?url=https://aheuma.github.io/IncentivizedBookReviews/Resources/Other/MA_Poster.pdf&amp;embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+<object data="../Resources/Other/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
+
+In case the poster is not displayed properly (this could happen e.g. on some smartphones), you can access the file [here](../Resources/Other/MA_Poster.pdf)
 
 ## Scripts {#scripts}
 

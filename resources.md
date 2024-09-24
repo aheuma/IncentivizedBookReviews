@@ -1,7 +1,6 @@
 ---
 title: Resources
 layout: page
-pdf_file: "../assets/Hypothesenkapitel.pdf"
 aside: true
 ---
 
@@ -9,7 +8,7 @@ Note that some files can not be published due to copyright restrictions. This ap
 
 ## Poster {#poster}
 
-<object data="../assets/Resources/Other/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
+<object data="../Resources/Other/MA_Poster.pdf" width="744" height="800" type='application/pdf'></object>
 
 ## Scripts {#scripts}
 

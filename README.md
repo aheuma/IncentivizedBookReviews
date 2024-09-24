@@ -6,12 +6,13 @@ The website was created using GitHub Pages, Jekyll and the [alembic](https://git
 
 The thesis analyzes the impact of incentivization on German book reviews, in terms of review copies which are send by publishers/authors to literary critics, in this case: lay reviewers on LovelyBooks. The main question is whether incentivized book reviews show signs of influence if the reviewer received a review copy. The reviews are compared in terms of their positivity, complexity, elaborateness, extremeness, and objectivity.
 
-In addition to the website-specific data, you can find the following resources:<br>
-"./Resources/Thesis/": The submitted thesis and a corresponding poster            
+In addition to the website-specific data, you can find the following resources:<br>          
 "./Resources/Scripts/": Python-scripts<br>
+"./Resources/Plots/": Created plots<br>
 "./Resources/Other/": Other interim results<br>
 
-Note that the raw data—the book reviews—are not published due to copyright restrictions. The same applies to all self-generated research data which contain any review contents.<br>
+Note that the raw data—the book reviews—is not published due to copyright restrictions. The same applies to all self-generated research data which contain any review contents.<br>
+The thesis itself is also not published due to the same reasons. However, the submitted thesis poster is available as well (in folder "./Resources/Other/").  
 
 The data source is the LoBo Corpus, cf. the following publication: <br>
 Rebora, S., Messerli, T., & Herrmann, J. B. (2022). Towards a Computational Study of German Book Reviews - A Comparison between Emotion Dictionaries and Transfer Learning in Sentiment Analysis. DHd2022: Kulturen Des Digitalen Gedächtnisses.

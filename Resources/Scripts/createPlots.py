@@ -6,7 +6,7 @@ import pandas as pd
 
 def createBarPlot(labels, values, xlabel, ylabel, file_path):
     plt.figure(figsize=(10, 6))
-    plt.bar(labels, values)
+    plt.bar(labels, values, color='#7E7EFD')
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
     for i, value in enumerate(values):
@@ -30,7 +30,7 @@ def create_IR_share_bar_plot(dict_incentivization_per_genre):
     width = 0.35  # the width of the bars
 
     fig, ax = plt.subplots(figsize=(10,6))
-    bars = ax.bar(x, incentivized_percentage, width)
+    bars = ax.bar(x, incentivized_percentage, width, color="#7E7EFD")
 
     # Add some text for labels, title and custom x-axis tick labels, etc.
     ax.set_xlabel('Genres')
@@ -58,7 +58,7 @@ def create_IR_share_bar_plot(dict_incentivization_per_genre):
 
     # Adjust y-axis limit to add more space above the highest bar
     ax.set_ylim(0, max(incentivized_percentage) + 10)
-    plt.savefig('./Plots/reviews_IR_shares_ALL.png', dpi=300, bbox_inches='tight')
+    plt.savefig('./reviews_IR_shares_ALL.png', dpi=300, bbox_inches='tight')
     print("Plot saved!")
 
 def create_summarized_pie_chart(data):
@@ -107,8 +107,8 @@ def create_bar_plot_hu_IR_comparison(dictionary):
 
     # Erstellen der Balken
     fig, ax = plt.subplots()
-    bar1 = ax.bar(ind - width/2, share1, width, label='LoBo Corpus')
-    bar2 = ax.bar(ind + width/2, share2, width, label='Hu et al.')
+    bar1 = ax.bar(ind - width/2, share1, width, label='LoBo Corpus', color='#7E7EFD')
+    bar2 = ax.bar(ind + width/2, share2, width, label='Hu et al.', color='#FFD17F')
 
     # Hinzufügen der Beschriftungen, Titel und Achsenbeschriftungen
     ax.set_ylabel('IR Share (%)')
@@ -139,7 +139,7 @@ def create_bar_plot_hu_IR_comparison(dictionary):
     fig.tight_layout()
     #plt.show()
 
-    plt.savefig('./Plots/hu_IR_comparison.png', dpi=300, bbox_inches='tight')
+    plt.savefig('./hu_IR_comparison.png', dpi=300, bbox_inches='tight')
     print("Plot saved!")
 
 def create_reviewType_share_bar_plot(dictionary):
@@ -152,7 +152,7 @@ def create_reviewType_share_bar_plot(dictionary):
 
     # Plotting
     plt.figure(figsize=(10, 6))
-    bars = plt.bar(percentages.keys(), percentages.values(), color=['skyblue', 'lightgreen', 'lightcoral'])
+    bars = plt.bar(percentages.keys(), percentages.values(), color=['#FFD17F', '#7E7EFD', 'lightcoral'])
 
     # Adding title and labels
     plt.xlabel('Review Type')
@@ -170,7 +170,7 @@ def create_reviewType_share_bar_plot(dictionary):
         plt.text(bar.get_x() + bar.get_width() / 2, height + max_value * 0.02, f'{height:.2f}%', ha='center')
 
     # Show the plot
-    plt.savefig('./Plots/review_type_shares_romance.png', dpi=300, bbox_inches='tight')
+    plt.savefig('./Arbeitspakete/AP2_Analyse/review_type_shares_romance.png', dpi=300, bbox_inches='tight')
     print("Plot saved!")
 
 
@@ -315,6 +315,7 @@ values_review_types_romance = list(dict_review_types_romance.values())
 
 # Year = [0]
 # Number of Reviews = [1]
+'''
 metadata_df = pd.read_pickle("./Arbeitspakete/AP2_Analyse/LOBOV5_metadata.pkl")
 series_review_years = metadata_df['text_rez_year'].value_counts()
 dict_review_years = series_review_years.to_dict()
@@ -322,11 +323,12 @@ del dict_review_years['unknown']
 dict_review_years = dict(sorted(dict_review_years.items(), key=lambda item: item[1], reverse=True))
 labels_review_years = list(dict_review_years.keys())
 values_review_years = list(dict_review_years.values())
+'''
 
 #create_summarized_pie_chart(dict_all_reviews_per_genre)
-#createBarPlot(labels_IRs, values_IRs, "Genres", "# of Reviews", "./Plots/reviews_IRs_absolute_per_genre_BAR.png")
-#createBarPlot(labels_Totals, values_Totals, "Genres", "# of Reviews", "./Plots/total_reviews_per_genre_BAR.png")
+#createBarPlot(labels_IRs, values_IRs, "Genres", "# of Reviews", "./Arbeitspakete/AP2_Analyse/reviews_IRs_absolute_per_genre_BAR.png")
+#createBarPlot(labels_Totals, values_Totals, "Genres", "# of Reviews", "./Arbeitspakete/AP2_Analyse/total_reviews_per_genre_BAR.png")
 #createBarPlot(labels_NIRs, values_NIRs, "Genres", "# of Reviews", "./Plots/reviews_NIRs_per_genre_BAR.png")
 #create_bar_plot_hu_IR_comparison(dict_hu_IR_comparison)
 #create_IR_share_bar_plot(dict_incentivization_per_genre)
-#create_reviewType_share_bar_plot(dict_review_types_romance)
+create_reviewType_share_bar_plot(dict_review_types_romance)

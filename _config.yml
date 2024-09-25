@@ -99,7 +99,7 @@ title: "Incentivized Book Reviews" # Site name or title, also used in jekyll-seo
 url: "https://aheuma.github.io/IncentivizedBookReviews/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/aheuma/IncentivizedBookReviews/tree/main"
-author: "Anne Heumann"
+author: "<a href='mailto:aheumann@students.uni-mainz.de'>Anne Heumann</a>"
 # email: "aheumann@posteo.de"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting

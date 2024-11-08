@@ -7,7 +7,7 @@ layout: page
 
 ## The LoBo Corpus {#data-lobo-corpus}
 
-The LovelyBooks corpus (LoBo corpus) is a dataset of German online book reviews which were collected by S. Rebora, B. Herrmann, and T. Messerli[^1]. The dataset comprises about 1,4 mio. book reviews, sorted by 16 genres. The distribution (in absolute numbers) and the respective genres can be found in the following plot:
+The LovelyBooks corpus (LoBo corpus) is a dataset of German online book reviews which were collected and prepared by S. Rebora, B. Herrmann, T. Messerli, and K. Rothenhäusler[^1]. The dataset comprises about 1,4 mio. book reviews, sorted by 16 genres. The distribution (in absolute numbers) and the respective genres can be found in the following plot:
 
 {% include figure.html image="../assets/images/total_reviews_per_genre_BAR.png" position="center" height="90%" %} 
 

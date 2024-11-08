@@ -19,6 +19,7 @@ In the following, all results are reported apart from the test assumptions (you 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | 0.2612 | **0.2775** |
+| SD | 0.1249 | 0.1788 |
 
 <br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H1_ is rejected. Instead, the alternative hypothesis—_H1b NIRs are more positive than IRs_—is tested.
 
@@ -34,6 +35,7 @@ In the following, all results are reported apart from the test assumptions (you 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | 5.2486 | **5.2886** |
+| SD | 0.2718 | 0.4158 |
 
 <br>Due to the contrary tendency as indicated by the mean scores, hypothesis _H2_ is rejected. Instead, the alternative hypothesis—_H2b NIRs are more complex than IRs_—is tested.
 
@@ -49,6 +51,7 @@ In the following, all results are reported apart from the test assumptions (you 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | **475.8192** | 327.6587 |
+| SD | 311.3817 | 280.9906 |
 
 <br>The mean tendency supports the initial hypothesis.
 
@@ -85,6 +88,7 @@ In the following, all results are reported apart from the test assumptions (you 
 | **Measure** | **IR** | **NIR** |
 | --- | ---|---|
 | Mean | **91.7514** | 91.3303 |
+| SD | 2.0898 | 3.8464 |
 
 <br>The mean tendency supports the initial hypothesis.
 

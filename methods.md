@@ -124,6 +124,6 @@ For all hypotheses, the values are computed and added to each review in a separa
         input_df.to_csv(input_path, index=False, header=True)
 
 ---
-[^1]: Rebora et al. 2022.
+[^1]: Cf. with a first publication: Rebora et al. 2022.
 [^2]: Confirmed also by Hu et al. 2023.
 [^3]: Costa et al. 2019, Hu et al. 2023.
